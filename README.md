@@ -12,3 +12,7 @@ To get started with this project, follow these steps:
 
    ```bash
    npm install
+Run the Development Server: Start the development server to preview the website locally:
+
+```bash
+npm run dev
